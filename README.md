@@ -1,1 +1,1 @@
-# Lung-disease-predictor
+# Predicitng-Lungs-Disease-
